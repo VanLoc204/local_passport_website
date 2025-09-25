@@ -1,17 +1,22 @@
-4. local_passport_website: Run by yourself:
-   a. Register:
-   ![1758808399472](image/README/1758808399472.png)
-   database:
+4. local_passport_website: Run by yourself
 
-   ![1758808425676](image/README/1758808425676.png)
+a. Register:
 
-   b. Login:
+![1758808399472](public/image/1758808399472.png)
 
-   ![1758808463842](image/README/1758808463842.png)
-   c. profile
+Database:
 
-   ![1758808524369](image/README/1758808524369.png)
+![1758808425676](public/image/1758808425676.png)
 
-   d. logout: Sau khi click vào Logout trên màn hình -> quay lại login
+b. Login:
 
-   ![1758808626269](image/README/1758808626269.png)
+![1758808463842](public/image/1758808463842.png)
+
+c. Profile:
+
+![1758808524369](public/image/1758808524369.png)
+
+d. Logout:  
+Sau khi click vào **Logout** trên màn hình → quay lại **Login**
+
+![1758808626269](public/image/1758808626269.png)
